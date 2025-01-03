@@ -30,7 +30,7 @@ The **P/E ratio of 30.52** is high compared to the **industry average of 25.22**
 | Company Name              | Indian Railway Finance Corp Ltd. |
 | Sector                    | Finance               |
 | Established               | 1986                  |
-| Website                   | [irfc.nic.in](https://www.irfc.nic.in) |
+| Website                   | irfc.nic.in |
 | Listing At                | BSE, NSE              |
 | BSE Code                  | 543257                |
 | NSE Code                  | IRFC                  |
